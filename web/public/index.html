@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>오늘의 뉴스 분위기</title>
+<meta name="description" content="오늘 경제 뉴스 제목의 분위기를 지수로 보여 주고 AI가 근거 제목을 요약합니다. 투자 조언이 아닙니다.">
+<link rel="stylesheet" href="style.css?v=16">
+</head>
+<body>
+<header class="site"><div class="wrap">
+  <a class="brand" href="./">오늘의 뉴스 분위기</a>
+  <nav><a href="about.html">면책·개인정보·출처</a></nav>
+</div></header>
+
+<main class="wrap" id="main">
+  <p id="notice" class="notice" role="status" hidden></p>
+  <h1 class="sr">오늘의 뉴스 시장 분위기와 AI 해설</h1>
+  <div class="tabs" id="tabs" role="group" aria-label="시장 선택"></div>
+  <nav class="jump" aria-label="이 페이지 안 바로가기">
+    <a href="#s-live">실시간</a><a href="#s-summary">AI 해설</a><a href="#s-clusters">기사 묶음</a><a href="#s-trend">최근 추이</a>
+    <a href="#s-kinds">갈래별</a><a href="#s-topics">주제 비중</a><a href="#s-sectors">섹터별</a><a href="#s-method">지수 산출</a>
+  </nav>
+  <div id="view"><p>자료를 불러오는 중…</p></div>
+</main>
+
+<footer class="wrap">
+  <p>이 화면은 보도된 뉴스 제목의 분위기를 보여 줄 뿐이며 투자 조언이 아닙니다. 다음 날 시장을 맞히는 데 쓸 수 없습니다.</p>
+  <p id="updated"></p>
+  <p><a href="about.html">면책 · 개인정보처리방침 · 데이터 출처</a></p>
+</footer>
+<script src="app.js?v=16" defer></script>
+</body>
+</html>

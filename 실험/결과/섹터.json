@@ -1,0 +1,1015 @@
+{
+ "ko": {
+  "제목": 112815,
+  "섹터 둘 이상": 0.008,
+  "섹터 없음": 0.806,
+  "섹터": {
+   "반도체": {
+    "하루평균_전체": 14.0,
+    "하루평균_최근60": 87.5,
+    "20개이상_최근60": 1.0,
+    "지수가능": true,
+    "같은날_시장등락_상관": 0.711,
+    "표본": [
+     "한미반도체 주가, 7월 6일 장중 229,000원 1.51% 하락",
+     "韓 반도체 소부장·MLCC株…JP모간이 보유지분 늘린 까닭",
+     "반도체주 되살아난 뉴욕증시…SK하이닉스 ADR 27% 상승",
+     "[영상] '빅쇼트' 마이클 버리, 반도체 하락 베팅 결과는?",
+     "\"반도체 전성시대, 역사가 바뀐다\" SOXX·SMH 나란히 기록 경신",
+     "美 관세압박에, 대미투자 1호 이달 나오나…정부 “반도체, 사실 아냐”",
+     "미 반도체주 '와르르'… 도쿄증시, 반도체 부진에 3일 만에 하락",
+     "반도체 훈풍에 코스피 7400선 회복...코스닥은 5.4% 급등",
+     "[개장] 코스피, 1% 상승… 반도체株 기대감 지속",
+     "코스피 8,228 마감, 이틀 연속 사상 최고치 경신‥SK하이닉스 9.31% 급등"
+    ]
+   },
+   "자동차": {
+    "하루평균_전체": 2.4,
+    "하루평균_최근60": 6.8,
+    "20개이상_최근60": 0.08,
+    "지수가능": false,
+    "같은날_시장등락_상관": null,
+    "표본": [
+     "멕시코, 중국산 車·철강에 또 관세 검토한다",
+     "상호관세 대신 ‘글로벌 관세’…韓 대미 투자, 반도체-車 영향은?",
+     "관세 악재에도… 현대차·기아, 美 점유율 11%로",
+     "씨앤엠, 자동차 모터 넘어 '피지컬 AI'로…코스닥 IPO 시동",
+     "현대차가 로봇·삼성전자가 차반도체 노리는 이유",
+     "트럼프 한국 방문 성과, 한미 무역협정 타결…자동차 관세 25%→15% 전격 인하",
+     "기아, '매출 100조' 날개 달았다...2024년 매출·영업이익 등 역대 최고치",
+     "[Electric Car ①무역 분쟁] 미국 이어 유럽, 캐나다까지… 中 전기차 놓고 치열해진 관세전쟁",
+     "[美 관세 파장] 현대모비스, 해외 공장 활용도↑…큰형님 비중 줄이기 돌입",
+     "관세 부담 던 기아, 3분기 영업익 1.8조…수익성은 원가 상승에 발목 - 머니투데이"
+    ]
+   },
+   "바이오": {
+    "하루평균_전체": 1.9,
+    "하루평균_최근60": 6.0,
+    "20개이상_최근60": 0.03,
+    "지수가능": false,
+    "같은날_시장등락_상관": null,
+    "표본": [
+     "코스닥 7% 급등, 알테오젠 14% 급등‥코스피는 0.7% 상승에 그쳐",
+     "코스닥 892선…알테오젠 6%대 급락·주성엔지니어링 6%대 강세",
+     "[급등락주 짚어보기] 에이프로젠, 퇴행성관절염 신약 승인 기대 상한가…코스피 6개·코스닥 8개 ↑",
+     "알테오젠·유한양행 등 피하주사 플랫폼 기술로 몸값↑",
+     "'2차 바이오벤처 붐' 상장기업 퇴출 현실화",
+     "“고금리가 고통스럽긴 한데”…바이오벤처에 부는 변화의 바람",
+     "[주식마감] ‘탈모 치료제’ 기대감에 현대약품·JW신약 상한가... SK디앤디, 한울반도체 등 급등",
+     "찬 바람 불면...해외 제약사를 보라 - 조선비즈",
+     "코스닥 제약바이오기업, 주식 시장 돌파구 찾을까",
+     "'코스닥 대장주' 알테오젠 \"코스피 이전 상장 유보\""
+    ]
+   },
+   "소재(화학·철강·정유)": {
+    "하루평균_전체": 1.3,
+    "하루평균_최근60": 4.9,
+    "20개이상_최근60": 0.03,
+    "지수가능": false,
+    "같은날_시장등락_상관": null,
+    "표본": [
+     "튀르키예, 韓 냉연 아연 강판 반덤핑 관세 결정…현대제철 12.90%·포스코 10.48%",
+     "캐나다산 철강 관세 50%→25%",
+     "트럼프, 중간선거 유세서 고려아연 언급…“관세 정책 성과로 현지 투자”",
+     "[철강PICK] 강관 출하 美 쿼터제 이후 최고…수요 침체 '가격 인상'",
+     "\"올 회사채 발행 30% 줄 것\"…석유화학·2차전지 투자 늦춘다",
+     "영국, 철강 수입규제 대폭 강화…TRQ 절반 축소·초과관세 50%",
+     "“기름값 왜 올랐나?” 콕 집은 대통령…정유업계, 움직일까? [잇슈 머니]",
+     "정부, 中철강제품에 덤핑관세 부과키로…“韓산업 피해”",
+     "환율 하락에 업종별 실적 향방 요동...반도체·車 '신음', 항공·철강 '반색'",
+     "캐나다, 美 무역협상 결렬 보복관세에 맞불 조치…철강·낙농에 부과 - 머니투데이"
+    ]
+   },
+   "금융": {
+    "하루평균_전체": 1.1,
+    "하루평균_최근60": 4.1,
+    "20개이상_최근60": 0.0,
+    "지수가능": false,
+    "같은날_시장등락_상관": null,
+    "표본": [
+     "은행 예금·증권사 발행어음 금리 줄줄이 상승...3개월 새 최대 0.6%포인트 '쑥'",
+     "[오늘Who] IBK기업은행 캐피탈·연금보험·저축은행 실적 부진, 장민영 비은행 대표 인사폭 커지나",
+     "구다이글로벌, 코스피 상장 본격화…국내외 증권사에 RFP 발송",
+     "은행권 금리인하 경쟁…이달 16일 신규 대출 금리 또 내릴까",
+     "'성과급 잔치' 카드·보험사 직원 평균 연봉 1억원 넘었다(종합)",
+     "[증시한담] 2년 만에 등장한 증권사 리포트… 애널리스트 선후배간 인연 덕분?",
+     "시중은행, 예금 금리 3%대 대세…신한 마이플러스 3.3%",
+     "주영훈·박병국·김현수 첫 1위…하나증권은 베스트 증권사",
+     "죽어도 내년 코스피 6천 안 무너진단 증권사",
+     "증권사 부장, 축구선수, 양정원 남편까지…'코스닥 주가조작' 전말"
+    ]
+   },
+   "2차전지": {
+    "하루평균_전체": 1.1,
+    "하루평균_최근60": 2.6,
+    "20개이상_최근60": 0.02,
+    "지수가능": false,
+    "같은날_시장등락_상관": null,
+    "표본": [
+     "튀르키예, 리튬이온배터리에 관세 30% 추가부과...한국 제외",
+     "에코프로·알티오젠도 제쳐…삼천당제약, '코스닥 대장주' 등극",
+     "\"우리 제품 써 주세요\" 갑을 뒤바뀐 ESS·배터리",
+     "2차전지 관련주 ‘케이솔루션’ 코스닥 상장",
+     "기관 '삼성SDI'·외인 '삼성전기'·개인 '삼성전자' 1위 [주간 코스피 순매수- 2026년 8월24일~8월28일]",
+     "SK이노, SK온 기대감이 현실로 다가온다",
+     "'개미 사랑' 에코프로·포스코의 배신…\"이게 다 원자재 때문\" - 머니투데이",
+     "[ETF 시황] 코스닥·반도체 ETF 강세…2차전지·건설 테마는 약세",
+     "[특징주] TCC스틸, 美 고율 관세 피한 ‘신의 한수’…현지 주석 도금강판·2차전지 수혜 기대 ‘ 강세’",
+     "\"테슬라 사이버트럭 비싸\"…에코프로 등 2차전지주 약세"
+    ]
+   },
+   "유통·소비": {
+    "하루평균_전체": 0.9,
+    "하루평균_최근60": 1.7,
+    "20개이상_최근60": 0.0,
+    "지수가능": false,
+    "같은날_시장등락_상관": null,
+    "표본": [
+     "국내 플랫폼 잇딴 미국行에 유니콘들 '기웃'...\"쿠팡만도 못하면서\"",
+     "미국 공화당, ‘쿠팡 개인정보 유출 제재’ 외교 문제로 비화시키나",
+     "'국민 피로회복제' 박카스, 편의점 가격 900원→1000원 인상",
+     "[단독] '美 상장사' 쿠팡, 러시아산 판매 차단 나섰다",
+     "한국산 화장품 사재기? 트럼프 관세 전쟁에도 K-뷰티가 인기인 이유 💄",
+     "쿠팡 3분기 실적 발표, 그 속에 담긴 의미",
+     "롯데백화점, 미하라 야스히로와 국내 최초 단독 협업",
+     "'2024 오송화장품뷰티산업엑스포' 성황리 폐막 수출계약 159억 기업성과 '호조'",
+     "쿠팡, 분기 매출 12조 넘본다... 대만 로켓배송도 '고속 성장'(종합) - 머니투데이",
+     "'더 더' 세지는 상법 … '다 다' 빠져나가는 쿠팡"
+    ]
+   },
+   "조선·방산": {
+    "하루평균_전체": 0.6,
+    "하루평균_최근60": 1.7,
+    "20개이상_최근60": 0.0,
+    "지수가능": false,
+    "같은날_시장등락_상관": null,
+    "표본": [
+     "LIG넥스원, 유도무기·C4I 앞세워 실적 고공행진",
+     "한화에어로·현대로템·에이피알, 올해 목표가 가장 많이 올랐다",
+     "K-조선업, 호황기 순풍에 ‘마스가’로 날개 달았다",
+     "FLNG 건조 실적 최대 보유…가시적 성과 나올까[삼성중공업 50주년③]",
+     "반도체·원자재 ETF 두각…방산주 상품은 주춤",
+     "잘나가던 한화오션 주가가 뚝 떨어진 이유",
+     "'마스가' 조선업, 인건비·보조금 지분 압박 이중고",
+     "순환매 장세에 이달 반도체 아닌 '코스닥·우주·방산' ETF 활짝(종합)",
+     "HD현대重·한화오션, 해양플랜트 '힘' 싣는다",
+     "'오일쇼크' 공포 커지는데…에너지·방산주 담을까[전쟁과 금융①]"
+    ]
+   },
+   "전력·원전": {
+    "하루평균_전체": 0.5,
+    "하루평균_최근60": 1.1,
+    "20개이상_최근60": 0.0,
+    "지수가능": false,
+    "같은날_시장등락_상관": null,
+    "표본": [
+     "한수원 원전연료 러시아 의존도 30％ 넘어 \"구매 줄일 것\"",
+     "LS전선, 美 빅테크 전력망 뚫었다···버스덕트 5000억 수주",
+     "[이주의 관.종]5년치 주문밀린 HD현대일렉트릭…4년만에 60배 '주가 스파크'",
+     "[인터뷰] 함흥규 한전산업개발 CEO, \"회사 역사상 최초 3500억 실적 달성\"",
+     "[이슈분석] 한전·가스公 등 에너지공기업 재무개선, 목표 초과달성에도 여전히 ‘갈길 멀어’",
+     "‘창립 50주년 LS일렉트릭, 분위기 쇄신해 비상하나’",
+     "AI 붐, 첫 실적 수혜는 전력 인프라…변압기·전선업계 먼저 웃었다",
+     "한전 주가 급락…거세지는 요금 인상 압박에 속수무책",
+     "(독자기고) 이태리 전력회사 에넬과 한전의 차이",
+     "[우루과이 이야기①]100% 재생에너지 전력 국가: 바람·물·태양·바이오매스로 지속가능한 전력망 보급"
+    ]
+   },
+   "인터넷·게임": {
+    "하루평균_전체": 0.5,
+    "하루평균_최근60": 0.7,
+    "20개이상_최근60": 0.0,
+    "지수가능": false,
+    "같은날_시장등락_상관": null,
+    "표본": [
+     "[코스닥 돋보기] 韓 게임사가 우크라에 ‘픽업트럭’ 파는 이유",
+     "아이돌 열애설만 나와도 주가 출렁, 인적 리스크 큰 엔터주",
+     "하이브 3분기 영업이익 542억원…작년 동기 대비 25.4%↓",
+     "변대규 네이버의장 기업 휴맥스, 신용등급 B등급까지 추락",
+     "잘 나가는 엔터주 JYP, 성장근거 '콕' 짚은 리포트 - 머니투데이",
+     "네이버·두산·현대차·KB금융…액티브 ETF서 유망주 찾는다",
+     "[오늘 이 웹툰] 죽음이 일상이 된 폐허 속 '최후의 배달'...'아포칼립스를 걷는 우체부",
+     "네이버, 2023년 3분기 실적발표 컨퍼런스콜 전문",
+     "게임 내 숫자가 갱신되는 시점은? 넷마블 바카라 환전",
+     "줌(ZUM)투자 서비스 12월 말 종료 … 포털사업 악화에 휘청이는 줌인터넷"
+    ]
+   },
+   "건설": {
+    "하루평균_전체": 0.2,
+    "하루평균_최근60": 0.3,
+    "20개이상_최근60": 0.0,
+    "지수가능": false,
+    "같은날_시장등락_상관": null,
+    "표본": [
+     "[단독] 건설업계 “시멘트, 7만원대로 낮춰라”...전면전 예고",
+     "현대건설 \"사우디 건설수주 누적 280억달러…국내기업 중 1위\"",
+     "[코스피·코스닥, 삼성바이오로직스 한화엔진 대우건설 메리츠금융지주 뷰노 HLB생명과학 코맥스등 28일 주요공시]",
+     "건설사 ‘손실 반영’에 실적 희비… 현대·현대ENG 흑자 전환, 대우 8000억 적자 - 조선비즈",
+     "대우건설 '실적 좋은 오너가' 김보현은 대표 연임 뒤 왜 4개월 만에 물러났나",
+     "“입주와 동시에 맞춤형 인테리어 완성”···DL이앤씨가 선보인 ‘디 셀렉션’",
+     "현대건설, 국내 1위 건설사 넘본다...삼성물산 맹추격",
+     "벼랑끝 몰린 트럼프, 한국 대우건설이 살려냈다. 美대통령 당선 숨은 공신 [월가월부]",
+     "“필요에 따라 공간 배치”···건설사들, 가변형 평면 잇따라 도입",
+     "고환율에 공사비↑·공급↓…건설업계 '복합 압박' 심화"
+    ]
+   }
+  },
+  "기업": {
+   "삼성전자": {
+    "하루평균_전체": 4.2,
+    "하루평균_최근60": 28.2,
+    "따로보여줄만": true
+   },
+   "SK하이닉스": {
+    "하루평균_전체": 2.6,
+    "하루평균_최근60": 14.9,
+    "따로보여줄만": true
+   },
+   "한미반도체": {
+    "하루평균_전체": 0.5,
+    "하루평균_최근60": 2.3,
+    "따로보여줄만": false
+   },
+   "현대차": {
+    "하루평균_전체": 0.8,
+    "하루평균_최근60": 1.4,
+    "따로보여줄만": false
+   },
+   "기아": {
+    "하루평균_전체": 0.3,
+    "하루평균_최근60": 0.8,
+    "따로보여줄만": false
+   },
+   "알테오젠": {
+    "하루평균_전체": 0.2,
+    "하루평균_최근60": 0.6,
+    "따로보여줄만": false
+   },
+   "에쓰오일": {
+    "하루평균_전체": 0.1,
+    "하루평균_최근60": 0.4,
+    "따로보여줄만": false
+   },
+   "현대제철": {
+    "하루평균_전체": 0.1,
+    "하루평균_최근60": 0.4,
+    "따로보여줄만": false
+   },
+   "삼성바이오로직스": {
+    "하루평균_전체": 0.1,
+    "하루평균_최근60": 0.4,
+    "따로보여줄만": false
+   },
+   "에코프로비엠": {
+    "하루평균_전체": 0.1,
+    "하루평균_최근60": 0.4,
+    "따로보여줄만": false
+   },
+   "에코프로": {
+    "하루평균_전체": 0.2,
+    "하루평균_최근60": 0.4,
+    "따로보여줄만": false
+   },
+   "한국전력": {
+    "하루평균_전체": 0.2,
+    "하루평균_최근60": 0.3,
+    "따로보여줄만": false
+   },
+   "네이버": {
+    "하루평균_전체": 0.2,
+    "하루평균_최근60": 0.2,
+    "따로보여줄만": false
+   },
+   "쿠팡": {
+    "하루평균_전체": 0.2,
+    "하루평균_최근60": 0.2,
+    "따로보여줄만": false
+   },
+   "하나금융": {
+    "하루평균_전체": 0.0,
+    "하루평균_최근60": 0.2,
+    "따로보여줄만": false
+   },
+   "LG에너지솔루션": {
+    "하루평균_전체": 0.1,
+    "하루평균_최근60": 0.2,
+    "따로보여줄만": false
+   },
+   "SK이노베이션": {
+    "하루평균_전체": 0.0,
+    "하루평균_최근60": 0.2,
+    "따로보여줄만": false
+   },
+   "삼성SDI": {
+    "하루평균_전체": 0.1,
+    "하루평균_최근60": 0.2,
+    "따로보여줄만": false
+   },
+   "미래에셋증권": {
+    "하루평균_전체": 0.1,
+    "하루평균_최근60": 0.2,
+    "따로보여줄만": false
+   },
+   "고려아연": {
+    "하루평균_전체": 0.0,
+    "하루평균_최근60": 0.2,
+    "따로보여줄만": false
+   },
+   "카카오": {
+    "하루평균_전체": 0.1,
+    "하루평균_최근60": 0.2,
+    "따로보여줄만": false
+   },
+   "셀트리온": {
+    "하루평균_전체": 0.1,
+    "하루평균_최근60": 0.2,
+    "따로보여줄만": false
+   },
+   "두산에너빌리티": {
+    "하루평균_전체": 0.0,
+    "하루평균_최근60": 0.2,
+    "따로보여줄만": false
+   },
+   "삼양식품": {
+    "하루평균_전체": 0.1,
+    "하루평균_최근60": 0.2,
+    "따로보여줄만": false
+   },
+   "한화오션": {
+    "하루평균_전체": 0.1,
+    "하루평균_최근60": 0.2,
+    "따로보여줄만": false
+   },
+   "우리금융": {
+    "하루평균_전체": 0.0,
+    "하루평균_최근60": 0.2,
+    "따로보여줄만": false
+   },
+   "키움증권": {
+    "하루평균_전체": 0.1,
+    "하루평균_최근60": 0.1,
+    "따로보여줄만": false
+   },
+   "한국항공우주": {
+    "하루평균_전체": 0.0,
+    "하루평균_최근60": 0.1,
+    "따로보여줄만": false
+   },
+   "넷마블": {
+    "하루평균_전체": 0.0,
+    "하루평균_최근60": 0.1,
+    "따로보여줄만": false
+   },
+   "한화에어로스페이스": {
+    "하루평균_전체": 0.1,
+    "하루평균_최근60": 0.1,
+    "따로보여줄만": false
+   },
+   "LG화학": {
+    "하루평균_전체": 0.0,
+    "하루평균_최근60": 0.1,
+    "따로보여줄만": false
+   },
+   "신한지주": {
+    "하루평균_전체": 0.0,
+    "하루평균_최근60": 0.1,
+    "따로보여줄만": false
+   },
+   "이마트": {
+    "하루평균_전체": 0.0,
+    "하루평균_최근60": 0.1,
+    "따로보여줄만": false
+   },
+   "LS일렉트릭": {
+    "하루평균_전체": 0.0,
+    "하루평균_최근60": 0.1,
+    "따로보여줄만": false
+   },
+   "DB하이텍": {
+    "하루평균_전체": 0.0,
+    "하루평균_최근60": 0.1,
+    "따로보여줄만": false
+   },
+   "KB금융": {
+    "하루평균_전체": 0.0,
+    "하루평균_최근60": 0.1,
+    "따로보여줄만": false
+   },
+   "CJ제일제당": {
+    "하루평균_전체": 0.0,
+    "하루평균_최근60": 0.1,
+    "따로보여줄만": false
+   },
+   "하이브": {
+    "하루평균_전체": 0.1,
+    "하루평균_최근60": 0.1,
+    "따로보여줄만": false
+   },
+   "삼성중공업": {
+    "하루평균_전체": 0.0,
+    "하루평균_최근60": 0.1,
+    "따로보여줄만": false
+   },
+   "HD현대일렉트릭": {
+    "하루평균_전체": 0.0,
+    "하루평균_최근60": 0.1,
+    "따로보여줄만": false
+   },
+   "한미약품": {
+    "하루평균_전체": 0.0,
+    "하루평균_최근60": 0.0,
+    "따로보여줄만": false
+   },
+   "대우건설": {
+    "하루평균_전체": 0.0,
+    "하루평균_최근60": 0.0,
+    "따로보여줄만": false
+   },
+   "엘앤에프": {
+    "하루평균_전체": 0.0,
+    "하루평균_최근60": 0.0,
+    "따로보여줄만": false
+   },
+   "현대로템": {
+    "하루평균_전체": 0.0,
+    "하루평균_최근60": 0.0,
+    "따로보여줄만": false
+   },
+   "롯데쇼핑": {
+    "하루평균_전체": 0.0,
+    "하루평균_최근60": 0.0,
+    "따로보여줄만": false
+   },
+   "HD현대중공업": {
+    "하루평균_전체": 0.0,
+    "하루평균_최근60": 0.0,
+    "따로보여줄만": false
+   },
+   "HD한국조선해양": {
+    "하루평균_전체": 0.0,
+    "하루평균_최근60": 0.0,
+    "따로보여줄만": false
+   },
+   "현대건설": {
+    "하루평균_전체": 0.0,
+    "하루평균_최근60": 0.0,
+    "따로보여줄만": false
+   },
+   "유한양행": {
+    "하루평균_전체": 0.0,
+    "하루평균_최근60": 0.0,
+    "따로보여줄만": false
+   },
+   "아모레퍼시픽": {
+    "하루평균_전체": 0.0,
+    "하루평균_최근60": 0.0,
+    "따로보여줄만": false
+   },
+   "농심": {
+    "하루평균_전체": 0.0,
+    "하루평균_최근60": 0.0,
+    "따로보여줄만": false
+   },
+   "삼성생명": {
+    "하루평균_전체": 0.0,
+    "하루평균_최근60": 0.0,
+    "따로보여줄만": false
+   },
+   "카카오뱅크": {
+    "하루평균_전체": 0.0,
+    "하루평균_최근60": 0.0,
+    "따로보여줄만": false
+   },
+   "POSCO홀딩스": {
+    "하루평균_전체": 0.0,
+    "하루평균_최근60": 0.0,
+    "따로보여줄만": false
+   },
+   "GS건설": {
+    "하루평균_전체": 0.0,
+    "하루평균_최근60": 0.0,
+    "따로보여줄만": false
+   },
+   "현대모비스": {
+    "하루평균_전체": 0.0,
+    "하루평균_최근60": 0.0,
+    "따로보여줄만": false
+   },
+   "LG생활건강": {
+    "하루평균_전체": 0.0,
+    "하루평균_최근60": 0.0,
+    "따로보여줄만": false
+   },
+   "SK바이오팜": {
+    "하루평균_전체": 0.0,
+    "하루평균_최근60": 0.0,
+    "따로보여줄만": false
+   },
+   "DL이앤씨": {
+    "하루평균_전체": 0.0,
+    "하루평균_최근60": 0.0,
+    "따로보여줄만": false
+   },
+   "메리츠금융": {
+    "하루평균_전체": 0.0,
+    "하루평균_최근60": 0.0,
+    "따로보여줄만": false
+   },
+   "엔씨소프트": {
+    "하루평균_전체": 0.0,
+    "하루평균_최근60": 0.0,
+    "따로보여줄만": false
+   },
+   "SK온": {
+    "하루평균_전체": 0.0,
+    "하루평균_최근60": 0.0,
+    "따로보여줄만": false
+   },
+   "롯데케미칼": {
+    "하루평균_전체": 0.0,
+    "하루평균_최근60": 0.0,
+    "따로보여줄만": false
+   },
+   "크래프톤": {
+    "하루평균_전체": 0.0,
+    "하루평균_최근60": 0.0,
+    "따로보여줄만": false
+   },
+   "포스코퓨처엠": {
+    "하루평균_전체": 0.0,
+    "하루평균_최근60": 0.0,
+    "따로보여줄만": false
+   },
+   "LIG넥스원": {
+    "하루평균_전체": 0.0,
+    "하루평균_최근60": 0.0,
+    "따로보여줄만": false
+   }
+  }
+ },
+ "en": {
+  "제목": 180798,
+  "섹터 둘 이상": 0.004,
+  "섹터 없음": 0.915,
+  "섹터": {
+   "빅테크·소프트웨어": {
+    "하루평균_전체": 4.7,
+    "하루평균_최근60": 20.1,
+    "20개이상_최근60": 0.28,
+    "지수가능": false,
+    "같은날_시장등락_상관": 0.478,
+    "표본": [
+     "Big Tech Earnings Land With 2026’s AI Winners Still In Question",
+     "Are Big Tech bonds crowding out the US Treasury?",
+     "Meta’s Almost $10 Billion Legal Costs Take Huge Toll on Q3 Earnings, Wall Street Shrugs",
+     "The Stock Market Should Be More Worried About Google’s AI Funding Plan",
+     "Apple Vision Pro Review: The Best Headset Yet Is Just a Glimpse of the Future",
+     "Is Palantir Technologies (PLTR) a Buy as Wall Street Analysts Look Optimistic?",
+     "Microsoft Announces $1 Billion Investment in Kenya’s Digital Ecosystem",
+     "AI Data Center Debt vs. U.S. Treasury Bonds: Could Big Tech Borrowing Push Yields Higher?",
+     "Stock Market Today, April 29: Mixed Reactions as Big Tech Earnings Beat Expectations",
+     "Palantir's Stock Surges as Wall Street Analyst Says It Could Help DOGE Cut Spending"
+    ]
+   },
+   "반도체": {
+    "하루평균_전체": 3.5,
+    "하루평균_최근60": 17.3,
+    "20개이상_최근60": 0.33,
+    "지수가능": false,
+    "같은날_시장등락_상관": null,
+    "표본": [
+     "China's Xiaomi takes a page from Apple with a $7 billion plan to make its own mobile chips",
+     "Wall Street wants to see if AMD can rebound in 2 key businesses. But analysts disagree on how to play the stock",
+     "Jim Cramer's key to Wednesday's market — plus, relief for Intel after a concerning report",
+     "Why These Wall Street Experts Expect Big Things From Nvidia's Earnings Report Next Week",
+     "What Does Nvidia's Stock Split Mean for Investors?",
+     "What You Need to Know Ahead of Micron’s Earnings Release",
+     "Analyst reworks Nvidia stock price target ahead of earnings",
+     "Here’s the $200 Billion Reason Wall Street Is Nervous for NVIDIA’s Earnings",
+     "Intel to report Q3 earnings as chip stocks continue to rebound",
+     "Nasdaq 100 Falls 1% as Nvidia, ASML Get Crushed: Markets Wrap"
+    ]
+   },
+   "금융": {
+    "하루평균_전체": 2.1,
+    "하루평균_최근60": 7.9,
+    "20개이상_최근60": 0.07,
+    "지수가능": false,
+    "같은날_시장등락_상관": null,
+    "표본": [
+     "Q4 2024 Goldman Sachs Group Inc Earnings Call Transcript",
+     "How to get ahead in banking: Advice from Goldman Sachs and Morgan Stanley execs",
+     "3 US Bank Stocks Built For Higher Interest Rates",
+     "Wells Fargo Announces Transition Information for Outstanding U.S. Dollar LIBOR-Linked Instruments",
+     "Why big banks like JPMorgan and Citi want to put Wall Street on a blockchain",
+     "Wells Fargo Analysts Join JPMorgan Traders in Turning Cautious on US Stocks",
+     "Goldman Sachs is going through a massive transformation under CEO David Solomon",
+     "10-Year Treasury Yield at 5.3% Puts CRE Lenders on Alert",
+     "Citi delays outlook for Fed-cut timeline; data, speeches in focus after Warsh policy reform",
+     "In ‘The People vs. Citi,’ Climate Leaders Demand Citibank End Its Fossil Fuel Financing"
+    ]
+   },
+   "자동차": {
+    "하루평균_전체": 2.3,
+    "하루평균_최근60": 6.8,
+    "20개이상_최근60": 0.08,
+    "지수가능": false,
+    "같은날_시장등락_상관": null,
+    "표본": [
+     "Warren Buffett Owns 40 Million Shares of This Automaker -- Is It Poised to Pop?",
+     "Stellantis faces Q3 earnings test as investors seek proof of turnaround",
+     "New Jersey EV Charger Bill Sparks Scrutiny of Demand Charges",
+     "Ford CEO Out to Prove Wall Street Wrong on ‘Crazy High’ EV Goal",
+     "Toyota to get an earnings lift from hybrids as EV hype cools",
+     "Trump invites Chinese automakers to build cars in the U.S.",
+     "GM Raises Profit Outlook for 2024 After Strong First-Quarter Earnings",
+     "U.S. government confirms Tesla and LG Energy Solution large battery deal",
+     "Exclusive | The Money and Drugs That Tie Elon Musk to Some Tesla Directors",
+     "China’s Response to the EV Dispute: What it Tells us about the China–EU Rivalry"
+    ]
+   },
+   "소비·유통": {
+    "하루평균_전체": 1.6,
+    "하루평균_최근60": 5.4,
+    "20개이상_최근60": 0.03,
+    "지수가능": false,
+    "같은날_시장등락_상관": null,
+    "표본": [
+     "Dollar Stores Are Secretly Charging You More Than Walmart and Target, Experts Warn",
+     "Walmart investors eye margins amid grocery focus",
+     "What off-price retailers are saying about tariff refunds",
+     "Costco’s Recent Earnings Shows LIFO Accounting Helps Retailers As Inflation Abates",
+     "Retailers Focused on Consumer Spending, Tariffs, Goldman Sachs Says",
+     "8 Bath and Beauty Products That Are Cheaper at Dollar Tree Than Walmart",
+     "Home Depot (HD) Earnings Revisions Bring Its Valuation Story Back Into Focus",
+     "Amazon and Walmart Are Shaking Up the Dow, But Is Either Stock a Buy Now?",
+     "US retailers scramble to navigate shifting tariffs as consumer caution lingers",
+     "Dollar Tree Shoppers Find “Disguised” Cascade Dishwasher Pods for $18 Cheaper Than Walmart"
+    ]
+   },
+   "에너지": {
+    "하루평균_전체": 1.2,
+    "하루평균_최근60": 3.1,
+    "20개이상_최근60": 0.02,
+    "지수가능": false,
+    "같은날_시장등락_상관": null,
+    "표본": [
+     "Rs 200 LPG price cut on oil companies, government unlikely to give subsidy",
+     "O&G sector still has upside on further capex spending by oil majors",
+     "European Shares Dip as US-Iran Tensions Weigh; BP Rises, Ericsson Falls - Profit Announcement",
+     "IXC: Energy Stocks At A Crossroads (NYSEARCA:IXC)",
+     "ConocoPhillips CEO U.S. Shale Output to Level Off at $60 Oil",
+     "Utilities and Real Estate Sectors Drag Down S&P 500 in Q3 Despite Surging Energy Stocks",
+     "Exxon's Gas Project In Guyana To Include Fertilizer Plant",
+     "ExxonMobil Says Q3 Earnings Were Boosted By Higher Prices, Better Margins",
+     "Both Crude Oil And Energy Stocks Are Headed Much Higher (Technical Analysis)",
+     "BP steps up cost cutting as profits slide"
+    ]
+   },
+   "헬스케어": {
+    "하루평균_전체": 0.7,
+    "하루평균_최근60": 2.5,
+    "20개이상_최근60": 0.0,
+    "지수가능": false,
+    "같은날_시장등락_상관": null,
+    "표본": [
+     "To gain tariff exemptions, drugmakers must reveal US production plans",
+     "Pfizer Sees 2025 Revenue in Line With Wall Street Views",
+     "‘Pain Hustlers’ Brings ‘Wolf of Wall Street’ Energy to Big Pharma",
+     "How Gilgamesh Turned On Big Pharma’s Billion-Dollar Appetite For Psychedelic Drugs",
+     "Pfizer tops estimates, hikes low end of revenue guidance on strength of Eliquis, other drugs",
+     "Here are Friday's biggest analyst calls: Nvidia, Amazon, Carvana, Roku, Microsoft, Eli Lilly and more",
+     "Investors flee riskiest biotech stocks as Treasury yields climb",
+     "Eli Lilly is now worth more than Tesla as the EV maker's stock spirals",
+     "Trump Pharma Tariffs: Wrong Rx for U.S. Patients, Manufacturing, and Innovation | Blogs | Apr 3, 2026",
+     "What you need to know about Johnson & Johnson's 2024 fourth-quarter and full-year earnings report"
+    ]
+   },
+   "항공·방산": {
+    "하루평균_전체": 0.6,
+    "하루평균_최근60": 2.4,
+    "20개이상_최근60": 0.0,
+    "지수가능": false,
+    "같은날_시장등락_상관": null,
+    "표본": [
+     "Here Are Tuesday's Top Wall Street Analyst Research Calls: Agilent, Alibaba, Delta Air Lines, Intel, JD.com, Micron Technology, Reddit and More",
+     "Are Wall Street Analysts Predicting Boeing Stock Will Climb or Sink?",
+     "Here Are Tuesday’s Top Wall Street Analyst Research Calls: Borg Warner, Boyd Gaming, JetBlue, Lattice Semiconductor, Lockheed Martin, Nike, Northrop Grumman, Procter & Gamble, SPX Technologies, and More",
+     "What Analysts Think of Delta Air Lines Stock Ahead of Earnings",
+     "Delta Air Lines slashes earnings outlook on weaker U.S. demand, sending shares lower",
+     "Exclusive | Boeing CEO Says Company Needs to Acknowledge ‘Our Mistake’",
+     "What did Ethena do right in its business model besides the Delta neutral mechanism?",
+     "Why Dogecoin Now Has a Larger Market Cap Than Ford, Delta, and General Mills",
+     "American Airlines cuts 2026 earnings projections after surge in jet fuel",
+     "American Airlines Sees Another Quarterly Loss as Fuel Costs Rise"
+    ]
+   },
+   "가상자산 관련주": {
+    "하루평균_전체": 0.1,
+    "하루평균_최근60": 0.3,
+    "20개이상_최근60": 0.0,
+    "지수가능": false,
+    "같은날_시장등락_상관": null,
+    "표본": [
+     "Coinbase Q4 2024 earnings conference call",
+     "Coinbase Stock Jumps On Big Earnings Beat As Transaction Volume Grows—Key Level to Watch",
+     "Coinbase Earnings: Break Even Results as Weak Cryptocurrency Market Conditions Depress Revenue",
+     "Coinbase adds prediction markets and stock trading in push to be one-stop trading app",
+     "Coinbase's Q2 miss sparks split on Wall Street, analysts debate growth beyond crypto trading",
+     "Coinbase shares fall as muted crypto trading leads to a third-quarter miss",
+     "Coinbase beats on revenue and earnings, but usage continues to decline",
+     "JPMorgan (JPM) cuts Coinbase (COIN) target to $252 after 4Q miss, keeps overweight rating",
+     "3 Crypto Stocks With Up To 84% Earnings Growth",
+     "Coinbase's (COIN) Brian Armstrong Urges Wall Street Not to Get 'Left Behind'"
+    ]
+   }
+  },
+  "기업": {
+   "Nvidia": {
+    "하루평균_전체": 1.5,
+    "하루평균_최근60": 6.2,
+    "따로보여줄만": true
+   },
+   "Micron": {
+    "하루평균_전체": 0.5,
+    "하루평균_최근60": 3.4,
+    "따로보여줄만": false
+   },
+   "Meta": {
+    "하루평균_전체": 0.6,
+    "하루평균_최근60": 3.3,
+    "따로보여줄만": false
+   },
+   "Alphabet": {
+    "하루평균_전체": 0.7,
+    "하루평균_최근60": 3.3,
+    "따로보여줄만": false
+   },
+   "Amazon": {
+    "하루평균_전체": 0.7,
+    "하루평균_최근60": 2.7,
+    "따로보여줄만": false
+   },
+   "Tesla": {
+    "하루평균_전체": 0.8,
+    "하루평균_최근60": 2.6,
+    "따로보여줄만": false
+   },
+   "Goldman Sachs": {
+    "하루평균_전체": 0.6,
+    "하루평균_최근60": 2.0,
+    "따로보여줄만": false
+   },
+   "Apple": {
+    "하루평균_전체": 0.7,
+    "하루평균_최근60": 1.9,
+    "따로보여줄만": false
+   },
+   "Intel": {
+    "하루평균_전체": 0.3,
+    "하루평균_최근60": 1.9,
+    "따로보여줄만": false
+   },
+   "Oracle": {
+    "하루평균_전체": 0.3,
+    "하루평균_최근60": 1.8,
+    "따로보여줄만": false
+   },
+   "Microsoft": {
+    "하루평균_전체": 0.5,
+    "하루평균_최근60": 1.7,
+    "따로보여줄만": false
+   },
+   "Costco": {
+    "하루평균_전체": 0.3,
+    "하루평균_최근60": 1.6,
+    "따로보여줄만": false
+   },
+   "Netflix": {
+    "하루평균_전체": 0.4,
+    "하루평균_최근60": 1.4,
+    "따로보여줄만": false
+   },
+   "Broadcom": {
+    "하루평균_전체": 0.2,
+    "하루평균_최근60": 1.3,
+    "따로보여줄만": false
+   },
+   "Nike": {
+    "하루평균_전체": 0.2,
+    "하루평균_최근60": 1.1,
+    "따로보여줄만": false
+   },
+   "JPMorgan": {
+    "하루평균_전체": 0.4,
+    "하루평균_최근60": 1.1,
+    "따로보여줄만": false
+   },
+   "Walmart": {
+    "하루평균_전체": 0.4,
+    "하루평균_최근60": 1.1,
+    "따로보여줄만": false
+   },
+   "Ford": {
+    "하루평균_전체": 0.3,
+    "하루평균_최근60": 1.0,
+    "따로보여줄만": false
+   },
+   "Citigroup": {
+    "하루평균_전체": 0.2,
+    "하루평균_최근60": 1.0,
+    "따로보여줄만": false
+   },
+   "Chevron": {
+    "하루평균_전체": 0.2,
+    "하루평균_최근60": 0.9,
+    "따로보여줄만": false
+   },
+   "General Motors": {
+    "하루평균_전체": 0.2,
+    "하루평균_최근60": 0.9,
+    "따로보여줄만": false
+   },
+   "Exxon": {
+    "하루평균_전체": 0.3,
+    "하루평균_최근60": 0.9,
+    "따로보여줄만": false
+   },
+   "AMD": {
+    "하루평균_전체": 0.2,
+    "하루평균_최근60": 0.8,
+    "따로보여줄만": false
+   },
+   "Bank of America": {
+    "하루평균_전체": 0.2,
+    "하루평균_최근60": 0.8,
+    "따로보여줄만": false
+   },
+   "Palantir": {
+    "하루평균_전체": 0.3,
+    "하루평균_최근60": 0.7,
+    "따로보여줄만": false
+   },
+   "Morgan Stanley": {
+    "하루평균_전체": 0.2,
+    "하루평균_최근60": 0.7,
+    "따로보여줄만": false
+   },
+   "BlackRock": {
+    "하루평균_전체": 0.2,
+    "하루평균_최근60": 0.7,
+    "따로보여줄만": false
+   },
+   "Delta Air Lines": {
+    "하루평균_전체": 0.1,
+    "하루평균_최근60": 0.6,
+    "따로보여줄만": false
+   },
+   "Moderna": {
+    "하루평균_전체": 0.0,
+    "하루평균_최근60": 0.5,
+    "따로보여줄만": false
+   },
+   "Salesforce": {
+    "하루평균_전체": 0.1,
+    "하루평균_최근60": 0.5,
+    "따로보여줄만": false
+   },
+   "TSMC": {
+    "하루평균_전체": 0.1,
+    "하루평균_최근60": 0.5,
+    "따로보여줄만": false
+   },
+   "Eli Lilly": {
+    "하루평균_전체": 0.1,
+    "하루평균_최근60": 0.5,
+    "따로보여줄만": false
+   },
+   "Home Depot": {
+    "하루평균_전체": 0.1,
+    "하루평균_최근60": 0.4,
+    "따로보여줄만": false
+   },
+   "Boeing": {
+    "하루평균_전체": 0.1,
+    "하루평균_최근60": 0.4,
+    "따로보여줄만": false
+   },
+   "Wells Fargo": {
+    "하루평균_전체": 0.1,
+    "하루평균_최근60": 0.4,
+    "따로보여줄만": false
+   },
+   "ASML": {
+    "하루평균_전체": 0.1,
+    "하루평균_최근60": 0.4,
+    "따로보여줄만": false
+   },
+   "Coca-Cola": {
+    "하루평균_전체": 0.1,
+    "하루평균_최근60": 0.4,
+    "따로보여줄만": false
+   },
+   "BP": {
+    "하루평균_전체": 0.2,
+    "하루평균_최근60": 0.3,
+    "따로보여줄만": false
+   },
+   "Starbucks": {
+    "하루평균_전체": 0.1,
+    "하루평균_최근60": 0.3,
+    "따로보여줄만": false
+   },
+   "UnitedHealth": {
+    "하루평균_전체": 0.1,
+    "하루평균_최근60": 0.3,
+    "따로보여줄만": false
+   },
+   "Shell": {
+    "하루평균_전체": 0.2,
+    "하루평균_최근60": 0.3,
+    "따로보여줄만": false
+   },
+   "Coinbase": {
+    "하루평균_전체": 0.1,
+    "하루평균_최근60": 0.3,
+    "따로보여줄만": false
+   },
+   "Toyota": {
+    "하루평균_전체": 0.1,
+    "하루평균_최근60": 0.2,
+    "따로보여줄만": false
+   },
+   "RTX": {
+    "하루평균_전체": 0.0,
+    "하루평균_최근60": 0.2,
+    "따로보여줄만": false
+   },
+   "Lockheed Martin": {
+    "하루평균_전체": 0.0,
+    "하루평균_최근60": 0.2,
+    "따로보여줄만": false
+   },
+   "ConocoPhillips": {
+    "하루평균_전체": 0.0,
+    "하루평균_최근60": 0.2,
+    "따로보여줄만": false
+   },
+   "Qualcomm": {
+    "하루평균_전체": 0.0,
+    "하루평균_최근60": 0.2,
+    "따로보여줄만": false
+   },
+   "United Airlines": {
+    "하루평균_전체": 0.0,
+    "하루평균_최근60": 0.2,
+    "따로보여줄만": false
+   },
+   "Stellantis": {
+    "하루평균_전체": 0.0,
+    "하루평균_최근60": 0.2,
+    "따로보여줄만": false
+   },
+   "American Airlines": {
+    "하루평균_전체": 0.0,
+    "하루평균_최근60": 0.2,
+    "따로보여줄만": false
+   },
+   "McDonald's": {
+    "하루평균_전체": 0.1,
+    "하루평균_최근60": 0.2,
+    "따로보여줄만": false
+   },
+   "Johnson & Johnson": {
+    "하루평균_전체": 0.1,
+    "하루평균_최근60": 0.2,
+    "따로보여줄만": false
+   },
+   "Merck": {
+    "하루평균_전체": 0.0,
+    "하루평균_최근60": 0.1,
+    "따로보여줄만": false
+   },
+   "Pfizer": {
+    "하루평균_전체": 0.1,
+    "하루평균_최근60": 0.1,
+    "따로보여줄만": false
+   },
+   "Airbus": {
+    "하루평균_전체": 0.0,
+    "하루평균_최근60": 0.0,
+    "따로보여줄만": false
+   },
+   "Novo Nordisk": {
+    "하루평균_전체": 0.0,
+    "하루평균_최근60": 0.0,
+    "따로보여줄만": false
+   },
+   "MicroStrategy": {
+    "하루평균_전체": 0.0,
+    "하루평균_최근60": 0.0,
+    "따로보여줄만": false
+   }
+  }
+ }
+}

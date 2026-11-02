@@ -1,0 +1,13 @@
+# 학습된 모델 (수백 MB씩, 다시 만들 수 있음)
+models/
+# 판정 점수 캐시 (index.py가 다시 만듦)
+data/*_scores_*.tsv
+__pycache__/
+*.pyc
+data/*_probs_*.tsv
+data/cache/
+# 웹 자료 (web/build.py가 날마다 만듦)
+web/public/data/latest.json
+web/public/data/archive/
+# 공개용 고정본 (web/freeze.py가 만듦)
+web/dist/

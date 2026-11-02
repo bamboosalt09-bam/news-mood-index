@@ -1,0 +1,144 @@
+언어	섹터	종류	이름 (쉼표로 별칭, 첫 이름이 대표)
+ko	반도체	기업	삼성전자,삼전
+ko	반도체	기업	SK하이닉스,하이닉스,하닉
+ko	반도체	기업	한미반도체
+ko	반도체	기업	DB하이텍
+ko	반도체	낱말	반도체,HBM,D램,디램,낸드,파운드리,웨이퍼,팹리스
+ko	2차전지	기업	LG에너지솔루션,LG엔솔
+ko	2차전지	기업	삼성SDI
+ko	2차전지	기업	SK온
+ko	2차전지	기업	에코프로비엠
+ko	2차전지	기업	에코프로
+ko	2차전지	기업	포스코퓨처엠
+ko	2차전지	기업	엘앤에프
+ko	2차전지	낱말	2차전지,이차전지,배터리,양극재,음극재,전고체,리튬
+ko	자동차	기업	현대차,현대자동차
+ko	자동차	기업	기아
+ko	자동차	기업	현대모비스
+ko	자동차	낱말	자동차,완성차,전기차,車
+ko	바이오	기업	삼성바이오로직스,삼성바이오
+ko	바이오	기업	셀트리온
+ko	바이오	기업	유한양행
+ko	바이오	기업	한미약품
+ko	바이오	기업	알테오젠
+ko	바이오	기업	SK바이오팜
+ko	바이오	낱말	바이오,제약사,제약주,제약업계,신약,임상,의약품,헬스케어
+ko	인터넷·게임	기업	네이버,NAVER
+ko	인터넷·게임	기업	카카오
+ko	인터넷·게임	기업	크래프톤
+ko	인터넷·게임	기업	엔씨소프트
+ko	인터넷·게임	기업	넷마블
+ko	인터넷·게임	기업	하이브
+ko	인터넷·게임	낱말	게임주,게임사,포털,웹툰,엔터주
+ko	금융	기업	KB금융
+ko	금융	기업	신한지주,신한금융
+ko	금융	기업	하나금융
+ko	금융	기업	우리금융
+ko	금융	기업	카카오뱅크
+ko	금융	기업	삼성생명
+ko	금융	기업	메리츠금융
+ko	금융	기업	미래에셋증권
+ko	금융	기업	키움증권
+ko	금융	낱말	시중은행,은행권,은행주,금융지주,증권사,증권주,보험사,보험주,카드사,저축은행
+ko	조선·방산	기업	HD현대중공업
+ko	조선·방산	기업	HD한국조선해양
+ko	조선·방산	기업	한화오션
+ko	조선·방산	기업	삼성중공업
+ko	조선·방산	기업	한화에어로스페이스,한화에어로
+ko	조선·방산	기업	현대로템
+ko	조선·방산	기업	LIG넥스원
+ko	조선·방산	기업	한국항공우주,KAI
+ko	조선·방산	낱말	조선업,조선사,조선주,조선소,K조선,방산,방위산업,K방산
+ko	전력·원전	기업	한국전력,한전
+ko	전력·원전	기업	두산에너빌리티
+ko	전력·원전	기업	HD현대일렉트릭
+ko	전력·원전	기업	LS일렉트릭
+ko	전력·원전	낱말	원전,원자력,전력망,변압기,전력기기,SMR
+ko	소재(화학·철강·정유)	기업	LG화학
+ko	소재(화학·철강·정유)	기업	롯데케미칼
+ko	소재(화학·철강·정유)	기업	SK이노베이션
+ko	소재(화학·철강·정유)	기업	에쓰오일,S-Oil,S-OIL
+ko	소재(화학·철강·정유)	기업	POSCO홀딩스,포스코홀딩스
+ko	소재(화학·철강·정유)	기업	현대제철
+ko	소재(화학·철강·정유)	기업	고려아연
+ko	소재(화학·철강·정유)	낱말	석유화학,유화업계,정유사,정유업계,철강,화학주
+ko	건설	기업	현대건설
+ko	건설	기업	GS건설
+ko	건설	기업	대우건설
+ko	건설	기업	DL이앤씨
+ko	건설	낱말	건설사,건설업,건설주,건설업계
+ko	유통·소비	기업	이마트
+ko	유통·소비	기업	롯데쇼핑
+ko	유통·소비	기업	쿠팡
+ko	유통·소비	기업	CJ제일제당
+ko	유통·소비	기업	아모레퍼시픽
+ko	유통·소비	기업	LG생활건강
+ko	유통·소비	기업	삼양식품
+ko	유통·소비	기업	농심
+ko	유통·소비	낱말	유통업,유통업계,면세점,화장품,식품업계,편의점,백화점
+en	반도체	기업	Nvidia,NVIDIA
+en	반도체	기업	AMD
+en	반도체	기업	Intel
+en	반도체	기업	Broadcom
+en	반도체	기업	TSMC
+en	반도체	기업	Micron
+en	반도체	기업	Qualcomm
+en	반도체	기업	ASML
+en	반도체	낱말	chip,chips,chipmaker,chipmakers,semiconductor,semiconductors
+en	빅테크·소프트웨어	기업	Apple
+en	빅테크·소프트웨어	기업	Microsoft
+en	빅테크·소프트웨어	기업	Alphabet,Google
+en	빅테크·소프트웨어	기업	Amazon
+en	빅테크·소프트웨어	기업	Meta
+en	빅테크·소프트웨어	기업	Netflix
+en	빅테크·소프트웨어	기업	Oracle
+en	빅테크·소프트웨어	기업	Palantir
+en	빅테크·소프트웨어	기업	Salesforce
+en	빅테크·소프트웨어	낱말	Big Tech,tech stocks,tech giants,Magnificent Seven,software stocks
+en	자동차	기업	Tesla
+en	자동차	기업	Ford
+en	자동차	기업	General Motors,GM
+en	자동차	기업	Stellantis
+en	자동차	기업	Toyota
+en	자동차	낱말	automaker,automakers,carmaker,carmakers,EV,EVs,electric vehicle,electric vehicles
+en	금융	기업	JPMorgan,JP Morgan
+en	금융	기업	Goldman Sachs,Goldman
+en	금융	기업	Morgan Stanley
+en	금융	기업	Bank of America
+en	금융	기업	Citigroup,Citi
+en	금융	기업	Wells Fargo
+en	금융	기업	BlackRock
+en	금융	낱말	bank stocks,big banks,regional banks,lenders,banking sector,Wall Street banks
+en	에너지	기업	Exxon,ExxonMobil,Exxon Mobil
+en	에너지	기업	Chevron
+en	에너지	기업	Shell
+en	에너지	기업	BP
+en	에너지	기업	ConocoPhillips
+en	에너지	낱말	oil majors,oil companies,energy stocks,drillers,shale producers
+en	헬스케어	기업	Eli Lilly,Lilly
+en	헬스케어	기업	Pfizer
+en	헬스케어	기업	Moderna
+en	헬스케어	기업	Johnson & Johnson
+en	헬스케어	기업	Merck
+en	헬스케어	기업	UnitedHealth
+en	헬스케어	기업	Novo Nordisk
+en	헬스케어	낱말	drugmaker,drugmakers,pharma,biotech,health insurers,healthcare stocks
+en	소비·유통	기업	Walmart
+en	소비·유통	기업	Costco
+en	소비·유통	기업	Nike
+en	소비·유통	기업	Starbucks
+en	소비·유통	기업	McDonald's
+en	소비·유통	기업	Home Depot
+en	소비·유통	기업	Coca-Cola
+en	소비·유통	낱말	retailers,consumer stocks,retail stocks
+en	항공·방산	기업	Boeing
+en	항공·방산	기업	Lockheed Martin,Lockheed
+en	항공·방산	기업	Airbus
+en	항공·방산	기업	RTX
+en	항공·방산	기업	Delta Air Lines,Delta
+en	항공·방산	기업	United Airlines
+en	항공·방산	기업	American Airlines
+en	항공·방산	낱말	airlines,airline stocks,defense stocks,defense contractors
+en	가상자산 관련주	기업	Coinbase
+en	가상자산 관련주	기업	MicroStrategy,Strategy Inc
+en	가상자산 관련주	낱말	crypto stocks,bitcoin miners

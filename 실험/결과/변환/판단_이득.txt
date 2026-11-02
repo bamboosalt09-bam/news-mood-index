@@ -1,0 +1,12 @@
+[ko] 표본 300, Haiku 호재 102 악재 128 중립 70
+  방향 틀림: 지금 5 → 변환 3, 고쳐짐 2, 새로 틀림 0
+  부호 맞음(Haiku 호재·악재 중 |점수|≥0.25로 같은 쪽): 지금 167 → 변환 172
+[en] 표본 300, Haiku 호재 43 악재 188 중립 69
+  방향 틀림: 지금 19 → 변환 10, 고쳐짐 15, 새로 틀림 6
+  부호 맞음(Haiku 호재·악재 중 |점수|≥0.25로 같은 쪽): 지금 110 → 변환 165
+  새로 틀림 +1 -0.07→-0.67 Why the Battered Bond Market Is Finally Getting a Reprieve
+  새로 틀림 +1 +0.19→-0.46 AI trade bounces back as chip stocks snap skid
+  새로 틀림 +1 -0.07→-0.32 Investors bought stocks and bonds, shed cash in past week, say BofA
+  새로 틀림 +1 +0.57→-1.07 Chipmaker Micron lifts battered tech stocks
+  새로 틀림 +1 -0.01→-0.98 Why Methanex Stock Triumphed While the Market Tanked Today
+  새로 틀림 +1 -0.23→-0.60 Dollar retreats from 18-month high despite hot CPI as Fed officials temper hike bets

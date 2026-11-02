@@ -1,0 +1,20 @@
+[ko] 표본 253, Haiku 호재 94 악재 71 중립 88
+  방향 틀림: 지금 4 → 조정 4, 고쳐짐 1, 새로 틀림 1; 부호 맞음 101 → 110; 헛신호(중립인데 |점수|≥0.25) 21 → 20
+   남음 +1 -0.74→-0.57 반도체 수출은 안 꺾였다...“코스피 하락폭 과도”
+   고침 +1 -0.31→+0.55 협상 더 필요하지만…대미 투자 소식에 원전·플랜트 업계 반색[Pick코노미]
+   남음 -1 +0.56→+0.51 '천무 주춤, 패트리엇 날개' K방산 12%↓…美방산 5% 상승세[ETF업&다운]
+   새로 -1 +0.25→+0.44 전기차 찬바람에 고점 찍고 22% 꺾인 배터리주...증권가 “ESS가 판 바꿨다”
+   남음 -1 +0.66→+0.34 美·獨 방산 기업 수주 급증… K방산 성장세는 주춤
+[en] 표본 236, Haiku 호재 27 악재 137 중립 72
+  방향 틀림: 지금 10 → 조정 8, 고쳐짐 3, 새로 틀림 1; 부호 맞음 98 → 102; 헛신호(중립인데 |점수|≥0.25) 13 → 12
+   남음 +1 -0.99→-0.92 Oil prices dive on signs of Hormuz diplomacy while Saudi Arabia is left hanging in fight v
+   고침 -1 +0.54→+0.20 Why ServiceTitan Stock Is Diving 30% After Earnings Beat
+   남음 -1 +0.48→+0.33 Nvidia Stock Price Prediction: Nvidia Dives Over 4% From Highs, Can It Hit New Highs Again
+   고침 -1 +0.36→-0.29 Novo Nordisk shares dive after heart medicine fails trial, dealing another blow to its pip
+   고침 -1 +0.31→+0.12 SpaceX Shares Stumble in Nasdaq-100 Debut
+   남음 +1 -0.59→-0.77 BitGo’s stock leaps out of the gate, as IPO investors are undeterred by bitcoin’s selloff
+   남음 +1 -0.76→-0.72 Bond Yields Dive After Treasury Increases Buybacks
+   남음 -1 +0.42→+0.44 Tanker shares shoot higher yet again as broader stock market buckles
+   새로 -1 +0.02→+0.29 Global tech shares falter as Nvidia-led rally stalls
+   남음 -1 +0.50→+0.45 Honeywell Aerospace Stock Stumbles After Nasdaq Debut
+   남음 -1 +0.76→+0.34 Chip Stocks Dive as AI Rally Fatigue Sets In: Market Update

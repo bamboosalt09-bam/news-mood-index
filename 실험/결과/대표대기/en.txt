@@ -1,0 +1,32 @@
+너는 경제 뉴스 제목 판정가다. 아래 제목마다, 그 제목이 보도한 내용이 미국 주식 투자자(S&P 500)에게 그날 호재인지 악재인지 고른다.
+- 제목에 적힌 사실만 본다. 주가가 이미 오르거나 내렸다고 적혀 있으면 그 방향이다 (예: 'wipe out $1 trillion' = 시가총액이 사라짐 = 악재, '손실을 만회' = 호재).
+- 업체 하나의 소식이면 그 업체 주가 쪽으로 본다. 영향이 없거나 반반이면 중립.
+- label: '호재' | '악재' | '중립'. 번호(id)를 그대로 돌려준다.
+
+# 제목
+40	Intel Corp (INTC) Q3 2026 Earnings Call Highlights: Data Center Surge and Foundry Progress ...
+47	Exxon Raises Its Dividend Yet Again as Oil-Price Rally Boosts Earnings
+42	Apple, Super Micro, AMD, Palantir Step Up To Earnings Plate After Tech Sell-Off
+38	Intel Stock Is Crashing Out. Here’s Why the Shares Are Dropping Today
+49	Amazon AWS posts 39% revenue growth as cloud rivals also accelerate
+48	Tech Stocks Sell-Off Drags Wall Street Toward Its Worst Day Since June
+26	Nasdaq suffers worst month in over a year as AI nerves roil markets
+27	Oil prices set for fourth straight monthly gains as tanker attack highlights supply risks - Euronext Markets: Real-time Stock Market Data | live
+37	US futures fall as Amazon, Intel and Alphabet weigh on Wall Street
+35	Intel shares on course for worst day ever, triggers global chip rout
+36	Update: US Equity Indexes Slide as Mega-Cap Chipmakers Sink Following Intel's Results
+45	Exxon Stock: As Hyperscalers Bleed Cash, Big Oil Rakes In 'A Freaking Fortune'
+32	Oil prices fall as middle east diplomacy eases supply fears
+46	BP posts $8.5 billion third-quarter profit as oil prices soar
+29	TRICK OR TREAT? Oil Prices Jump More Than 2% as Strait of Hormuz Tanker Attack Renews Middle East Supply Fears
+50	Microsoft Just Announced Incredible News for Nvidia Shareholders
+34	Rivian third-quarter earnings beat estimates as software revenue, R2 deliveries rise
+30	Stock Market Today, Oct. 29: Norwegian Cruise Line Holdings Beats Q3 Estimates, Raises Full-Year Guidance
+25	Tech sell-off deepens, sending Wall Street toward its worst day since June
+39	Nvidia stock surges as revenue beats forecasts
+41	NVIDIA stock seen with 20% upside after strong AI-driven earnings and growth outlook
+33	Sinopec’s quarterly profit rises 64% as higher oil prices boost margins
+31	Sinopec's Q3 Profits Soar on Higher Oil Prices
+44	Exxon, Chevron report massive profits as Trump brags energy companies are ‘making a freakin fortune’
+43	Oil Prices Hit Triple Digits Again, Lifting Energy Stocks
+28	Wall Street slides as AI cash burn worries spark tech selloff By Reuters
