@@ -11,3 +11,12 @@ web/public/data/latest.json
 web/public/data/archive/
 # 공개용 고정본 (web/freeze.py가 만듦)
 web/dist/
+
+# 중간 산출물·외부 자료·로그 (2026-11-02 정리)
+data/기억라벨/
+data/외부/
+data/수집로그/
+data/*_pool2.tsv
+web/.firebase/
+# 지워도 되는 파일 보관 (2026-11-02, 사용자가 확인 뒤 직접 삭제)
+delete/

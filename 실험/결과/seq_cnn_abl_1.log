@@ -1,0 +1,12 @@
+두 선생 섞은 제목 19,000개
+[cnn D] 학습 제목 71,661개 (사람 6,019, Opus 27,527, Haiku 38,115)
+특징 13초, 음절 사전 19,375개
+매개변수 2,364,551개
+C:\Users\�ּ���\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\LocalCache\local-packages\Python313\site-packages\torch\nn\modules\conv.py:380: UserWarning: Using padding='same' with even kernel lengths and odd dilation may require a zero-padded copy of the input be created (Triggered internally at C:\actions-runner\_work\pytorch\pytorch\aten\src\ATen\native\Convolution.cpp:1105.)
+  return F.conv1d(
+  에폭 1: 검증 손실 1.0454 (15초)
+  에폭 2: 검증 손실 0.9807 (18초)
+  에폭 3: 검증 손실 1.0420 (17초)
+  에폭 4: 검증 손실 1.1041 (18초)
+온도 1.11, 배율 1.00
+check {"7단계": 0.666, "맞음": 0.893, "헛경보": 0.008, "놓침": 0.099, "방향틀림3": 13, "평균차이": 0.22521085034028834, "0아닌_7단계": 0.371007371007371, "0아닌_0으로": 0.44717444717444715}

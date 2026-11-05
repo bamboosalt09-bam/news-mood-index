@@ -98,6 +98,22 @@ def raw_day(stamp, lang):
     return (t.date() + dt.timedelta(1 if (t.hour, t.minute) >= CLOSE[lang] else 0)).isoformat()
 
 
+CLOSE_RE = {"ko": re.compile(r"(코스피|코스닥|국내\s?증시).*마감|마감.*(코스피|코스닥|국내\s?증시)"),
+            "en": re.compile(r"\b(s&p( 500)?|dow|nasdaq|wall st(reet)?|stocks?)\b.*\b(close[sd]?|ends?|ended|finish(es|ed)?)\b", re.I)}
+
+
+def close_day(title, stamp, trading, lang):
+    """장 마감 뒤 같은 날짜에 나온 그 시장의 마감 시황 제목이면 그 거래일, 아니면 None (docs/실험기록.md 2026-11-05)."""
+    if stamp[11:] in ("07:00", "08:00") or not CLOSE_RE[lang].search(title):
+        return None
+    t = local(dt.datetime.strptime(stamp, "%Y-%m-%d %H:%M"), lang)
+    d = t.date().isoformat()
+    if (t.hour, t.minute) < CLOSE[lang]:
+        return None
+    i = bisect.bisect_left(trading, d)
+    return d if i < len(trading) and trading[i] == d else None
+
+
 def market_day(stamp, trading, lang):
     """발행 시각(UTC 문자열) → 그 기사가 반영될 거래일. trading은 정렬된 거래일 목록."""
     i = bisect.bisect_left(trading, raw_day(stamp, lang))

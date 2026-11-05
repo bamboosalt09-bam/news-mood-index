@@ -147,6 +147,10 @@ def shock_label(z):
     return "보통" if z is None else "평온" if z < 0 else "보통" if z < 1 else "높음" if z < 2 else "매우 높음"
 
 
+def spread_label(z):  # 호재·악재 엇갈림 = 그날 점수 표준편차의 앞 60일 대비 z (충격도와 따로, docs/실험기록.md 2026-11-04)
+    return "보통" if z is None else "적음" if z < 0 else "보통" if z < 1 else "큼" if z < 2 else "매우 큼"
+
+
 def clusters(lst):  # 13번 묶기: 글자 3-gram Jaccard ≥ 0.5
     tri = lambda t: {t[i:i + 3] for i in range(len(t) - 2)} or {t}
     reps, mem, inv = [], [], collections.defaultdict(list)
@@ -188,9 +192,10 @@ def market(lang):
                        "cancel": r2(s["cancel"]), "titles": s["titles"], "close": r2(C[i], 2), "change_pct": r2(chg[i], 2),
                        "kinds": {k: r2(np.mean(v)) if len(v) >= MIN_KIND else None for k, v in kinds_of(D[n]).items()}})
     n, i, d, s = len(D) - 1, idx[-1], D[-1], S[-1]
-    mr, sr = rel(mood, n), rel(shock, n)
+    mr, sr, spr = rel(mood, n), rel(shock, n), rel([s["spread"] for s in S], n)
     today = {"mood": r2(s["mood"]), "mood_rel": r2(mr, 2), "mood_label": mood_label(mr), "shock": r2(s["shock"]), "spread": r2(s["spread"]),
-             "shock_rel": r2(sr, 2), "shock_label": shock_label(sr), "cancel": r2(s["cancel"]), "neg_share": r2(s["neg_share"]),
+             "shock_rel": r2(sr, 2), "shock_label": shock_label(sr), "spread_rel": r2(spr, 2), "spread_label": spread_label(spr),
+             "cancel": r2(s["cancel"]), "neg_share": r2(s["neg_share"]),
              "pos_share": r2(s["pos_share"]), "titles": s["titles"], "change_pct": r2(chg[i], 2), "close": r2(C[i], 2),
              "usual_mood": r2(float(np.mean(mood[max(0, n - REL):n]))), "usual_sd": r2(float(np.std(mood[max(0, n - REL):n]))),
              "rank": top(mood[max(0, n - REL):n], s["mood"])}
